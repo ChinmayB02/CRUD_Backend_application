@@ -14,7 +14,9 @@ Follow these steps to run the application locally:
 2. Install Dependencies:
    Navigate to the project directory and run the following command to install the required dependencies:
    
-   npm install
+  npm install express
+  npm install mysql
+
    
 
 3. Configure MySQL Database:
